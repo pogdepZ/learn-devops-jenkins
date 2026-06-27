@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-jenkins-demo",
+  "version": "1.0.0",
+  "description": "A simple NodeJS project to practice CI/CD with Jenkins",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "jenkins",
+    "cicd"
+  ],
+  "author": "",
+  "license": "ISC"
+}
